@@ -1,0 +1,4 @@
+.test/*
+.gwt-unitCache/*
+.target/*
+.test-classes/*

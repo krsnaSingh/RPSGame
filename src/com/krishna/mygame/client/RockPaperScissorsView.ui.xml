@@ -1,0 +1,23 @@
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+             xmlns:g="urn:import:com.google.gwt.user.client.ui">
+
+
+    <g:VerticalPanel styleName="rockPaperScissorsPanel">
+        <!-- Instruction Label -->
+        <g:Label styleName="toplable">Choose one: </g:Label>
+
+        <!-- Buttons for user choice -->
+        <g:HorizontalPanel styleName="gameButtons">
+            <g:Button ui:field="rockButton" styleName="gameButton">Rock</g:Button>
+            <g:Button ui:field="paperButton" styleName="gameButton">Paper</g:Button>
+            <g:Button ui:field="scissorsButton" styleName="gameButton">Scissors</g:Button>
+        </g:HorizontalPanel>
+
+        <!-- Labels to show the choices -->
+        <g:Label ui:field="userChoiceLabel" styleName="userChoiceLabel">You chose: </g:Label>
+        <g:Label ui:field="computerChoiceLabel" styleName="computerChoiceLabel">Computer chose: </g:Label>
+
+        <!-- Result label -->
+        <g:Label ui:field="resultLabel" styleName="resultLabel">Result: </g:Label>
+    </g:VerticalPanel>
+</ui:UiBinder>
