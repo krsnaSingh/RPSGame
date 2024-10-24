@@ -46,7 +46,8 @@ This project is a simple **Rock, Paper, Scissors** game built using **Google Web
 
 
 ## Screenshot
-![Screenshot from 2024-10-24 15-37-21](https://github.com/user-attachments/assets/6817822c-628b-44b3-9bc4-f4fde1f819b8)
+![Screenshot from 2024-10-24 15-38-07](https://github.com/user-attachments/assets/66d3e7e0-5255-40ed-a0be-f4b2a4524ad9)
+
 
 ---
 
