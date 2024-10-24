@@ -1,4 +1,5 @@
-.test/*
-.gwt-unitCache/*
-.target/*
-.test-classes/*
+.test
+.gwt-unitCache
+.target
+.test-classes
+.settings
