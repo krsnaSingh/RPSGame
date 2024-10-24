@@ -44,6 +44,10 @@ This project is a simple **Rock, Paper, Scissors** game built using **Google Web
 3. The computer will make a random selection.
 4. The result will be displayed below, showing what both the user and the computer chose and whether the user won, lost, or tied.
 
+
+## Screenshot
+![Screenshot from 2024-10-24 15-37-21](https://github.com/user-attachments/assets/6817822c-628b-44b3-9bc4-f4fde1f819b8)
+
 ---
 
 Enjoy playing the Rock, Paper, Scissors game.
